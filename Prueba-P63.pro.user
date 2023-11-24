@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 11.0.3, 2023-11-23T23:37:58. -->
+<!-- Written by QtCreator 11.0.3, 2023-11-24T09:40:50. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -242,8 +242,9 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Mayerli/Downloads/Prueba-03-P63-main/Prueba-03-P63-main/Prueba-P63.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Mayerli/Downloads/Prueba-03-P63-main/Prueba-03-P63-main/Prueba-P63.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Prueba-P632</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Mayerli/Downloads/Prueba-03-P63-main MC/Prueba-03-P63-main/Prueba-P63.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Mayerli/Downloads/Prueba-03-P63-main MC/Prueba-03-P63-main/Prueba-P63.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
